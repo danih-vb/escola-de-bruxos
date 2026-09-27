@@ -1,0 +1,44 @@
+# ===== Mundos e progresso pessoal =====
+saves/
+backups/
+
+# ===== Logs e relatórios de crash =====
+logs/
+crash-reports/
+hs_err_pid*.log
+output_original.log
+output_patched.log
+output_source.log
+minetweaker.log
+
+# ===== Dados por-conta / por-instalação (nao precisam ir pro repo) =====
+usernamecache.json
+TLauncherAdditional.json
+knownkeys.txt
+local/
+mod-config/menu.dat
+1213309934
+
+# ===== Cache/dados regeneraveis de mods =====
+llibrary/debug/
+falsepattern/*.jar
+falsepattern/*.jar.sha1
+falsepattern/*.jar.sha512
+falsepattern/*.log
+falsepattern_tmp/
+IDCV/
+journeymap/data/
+natives/
+
+# ===== Screenshots e capturas =====
+screenshots/
+
+# ===== Configs orfas de mods removidos =====
+config/AE2Stuff/
+config/AppliedEnergistics2/
+config/Netherlicious/
+CustomDISkins/
+
+# ===== Arquivos de sistema =====
+Thumbs.db
+.DS_Store
